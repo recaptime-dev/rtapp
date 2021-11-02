@@ -2,7 +2,12 @@
   "name": "recaptime-app",
   "packageManager": "yarn@3.1.0",
   "workspaces": [
+    "api",
     "app",
     "landing"
-  ]
+  ],
+  "scripts": {
+    "landing:localdev": "yarn landing:dev --port 3000",
+    "app:localdev": "yarn app:dev --port 3001"
+  }
 }
