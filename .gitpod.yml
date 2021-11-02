@@ -3,5 +3,18 @@ workspaceLocation: recaptime.app
 image:
   file: .gitpod.Dockerfile
 tasks:
-- init: yarn install
-  command: yarn app:dev
+- name: Project Setup
+  init: yarn install
+  command: exit 0
+- name: Landing Preview
+  command: yarn landing:localdev
+# Temporarily commented out as he web app is still WIP
+#- name: Webapp Preview
+#  command: yarn app:localdev
+#  openMode: split-right
+vscode:
+  extensions:
+    - pkief.material-icon-theme
+    - gitlab.gitlab-workflow
+    - eamodio.gitlens
+    - esbenp.prettier-vscode
