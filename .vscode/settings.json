@@ -22,7 +22,15 @@
   "languageToolLinter.lintOnOpen": true,
   "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
     "activitypub",
-    "peertube",
-    "feditrix"
+    "feditrix",
+    "fediverse",
+    "homeserver",
+    "monorepo",
+    "peertube"
+  ],
+  "cSpell.words": [
+    "Feditrix",
+    "fediverse",
+    "Homeserver"
   ],
 }
