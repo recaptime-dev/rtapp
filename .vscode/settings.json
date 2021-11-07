@@ -11,5 +11,18 @@
   "eslint.nodePath": ".yarn/sdks",
   "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
   "eslint.format.enable": false,
-  "prettier.enable": true
+  "prettier.enable": true,
+  "cSpell.enabled": true,
+  "languageToolLinter.external.url": "https://you-should-not-spell-it-wrong-again.up.railway.app",
+  "languageToolLinter.serviceType": "external",
+  "languageToolLinter.enabled": true,
+  "languageToolLinter.languageTool.motherTongue": "en-US",
+  "languageToolLinter.lintOnSave": true,
+  "languageToolLinter.lintOnChange": false,
+  "languageToolLinter.lintOnOpen": true,
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "activitypub",
+    "peertube",
+    "feditrix"
+  ],
 }
