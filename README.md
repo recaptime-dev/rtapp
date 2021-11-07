@@ -6,7 +6,7 @@
 
 This repository is the official home for the Feditrix Homeserver, which uses the same codebase as for the future `recaptime.app`.
 You know it, it's a super-app for the fediverse with the features of Matrix built-in. Just a side note, this monorepo is in its early stages,
-so don't expect stability and comformance to the specs yet.
+so don't expect stability and conformance to the specs yet.
 
 ## Project Structure
 
@@ -18,8 +18,10 @@ so don't expect stability and comformance to the specs yet.
 ## Resources for contributors and developers
 
 * Code of Conduct
-* Contributing Guidelines
+* [Contributing Guidelines](CONTRIBUTING.md)
 * [Security Policy](SECURITY.md)
+* [List of Project Maintainers and Coordinators](MAINTAINERS.md)
+* [Credits](CREDITS.md)
 * Docs soon!
 
 ### Other Projects
