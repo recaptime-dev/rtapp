@@ -8,7 +8,8 @@
   ],
   "scripts": {
     "landing:localdev": "yarn landing:dev --port 3000",
-    "app:localdev": "yarn app:dev --port 3001"
+    "app:localdev": "yarn app:dev --port 3001",
+    "global:copyright-headers": "python3 ${PROJECT_CWD}/bin/rtapp-copyright-headers \"$@\""
   },
   "devDependencies": {
     "@yarnpkg/sdks": "^2.5.0",
