@@ -109,3 +109,6 @@ dist
 !.yarn/plugins
 !.yarn/sdks
 !.pnp.*
+
+# Vercel CLI stuff
+.vercel
