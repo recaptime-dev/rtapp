@@ -107,4 +107,5 @@ dist
 !.yarn/releases
 !.yarn/cache
 !.yarn/plugins
-.pnp.*
+!.yarn/sdks
+!.pnp.*

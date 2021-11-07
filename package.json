@@ -9,5 +9,8 @@
   "scripts": {
     "landing:localdev": "yarn landing:dev --port 3000",
     "app:localdev": "yarn app:dev --port 3001"
+  },
+  "devDependencies": {
+    "@yarnpkg/sdks": "^2.5.0"
   }
 }

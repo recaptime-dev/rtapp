@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "gitlab.gitlab-workflow",
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "arcanis.vscode-zipfs"
+  ]
+}
