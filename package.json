@@ -11,6 +11,8 @@
     "app:localdev": "yarn app:dev --port 3001"
   },
   "devDependencies": {
-    "@yarnpkg/sdks": "^2.5.0"
+    "@yarnpkg/sdks": "^2.5.0",
+    "eslint": "^8.2.0",
+    "prettier": "^2.4.1"
   }
 }

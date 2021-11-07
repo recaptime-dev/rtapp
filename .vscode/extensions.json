@@ -5,6 +5,8 @@
     "gitlab.gitlab-workflow",
     "esbenp.prettier-vscode",
     "mikestead.dotenv",
-    "arcanis.vscode-zipfs"
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint"
   ]
 }
