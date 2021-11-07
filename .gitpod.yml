@@ -18,3 +18,6 @@ vscode:
     - gitlab.gitlab-workflow
     - eamodio.gitlens
     - esbenp.prettier-vscode
+    - mikestead.dotenv
+    - rvest.vs-code-prettier-eslint
+    - davidlday.languagetool-linter
