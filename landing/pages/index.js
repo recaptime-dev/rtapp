@@ -19,12 +19,12 @@ export default function Home() {
         <div className="grid">
           <a href="https://gitlab.com/RecapTime/app/blob/main/CONTRIBUTING.md" className="card">
             <h3>Help us develop &rarr;</h3>
-            <p>We're currently in the early stages of the app development. Ideas are welcome!</p>
+            <p>We&apos;re currently in the early stages of the app development. Ideas are welcome!</p>
           </a>
 
           <a href="https://mastodon.online/@RecapTime" className="card">
             <h3>Follow us on fediverse &rarr;</h3>
-            <p>Don't like Twitter. We got you covered!</p>
+            <p>Don&apos;t like Twitter. We got you covered!</p>
           </a>
 
           <a
@@ -32,7 +32,7 @@ export default function Home() {
             className="card"
           >
             <h3>Follow us on Twitter &rarr;</h3>
-            <p>Not in the fediverse? No problemo, we're not going anywhere.</p>
+            <p>Not in the fediverse? No problemo, we&apos;re not going anywhere.</p>
           </a>
 
           <a
